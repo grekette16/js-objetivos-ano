@@ -3,13 +3,14 @@
 :root {
     --cor-de-fundo: #96e0f7;
     --verde: #04361f;
-    --branco: #f9fcfb;
+    --branco: #080808;
     --botao-ativo: #1af8edc5;
     --botao-inativo: rgba(23, 128, 122, 0.5);
     --texto-fundo: rgba(33, 17, 216, 0.3);
 }
 
 body {
+    
     background-color: var(--cor-de-fundo);
     color: var(--branco);
     font-family: 'Chakra Petch', sans-serif;
